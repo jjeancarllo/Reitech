@@ -1,4 +1,4 @@
-# Reitech
+# Projeto 👨‍💻
 
 - React.js
 - TypeScript
